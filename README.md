@@ -49,6 +49,8 @@ A selection of open IoT & Time-Series datasets
 
 [- Citypulse ataset Collection](http://iot.ee.surrey.ac.uk:8080/datasets.html#traffic): A collection of datasets of vehicle traffic, observed between two points for a set duration of time over a period of 6 months
 
+[- MERLSense Data](https://sites.google.com/a/drwren.com/wmd/): Motion sensor data from a network of over 200 sensors for two years between March 2006 and March 2008
+
 
 ### Time-Series
 [- Pseudo Periodic Synthetic Time Series](https://data.world/uci/pseudo-periodic-synthetic-time-series): This data set is designed for testing indexing schemes in time series databases. The data appears highly periodic, but never exactly repeats itself.
