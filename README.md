@@ -37,10 +37,7 @@ A selection of open IoT & Time-Series datasets
 [- Commercial Building Energy Dataset](https://combed.github.io/): Contains a month of smart meter data collected from different sensing points\
 [- Individual household electric power consumption Data Set](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption): This archive contains 2075259 measurements gathered in a house between December 2006 and November 2010\
 [- AMPds2: The Almanac of Minutely Power dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FIE0S4): This dataset contains electricity, water, and natural gas measurements at one minute intervals\
-[- UK Domestic Appliance-Level Electricity Energy](https://www.imperial.ac.uk/computing): \
-[- Gas sensors for home activity monitoring](https://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitoring): \
-[- Pollution Measurements for the City of Brasov in Romania](http://iot.ee.surrey.ac.uk:8080/datasets.html#pollution): \
-[- GNFUV Unmanned Surface Vehicles Sensor Data](https://archive.ics.uci.edu/ml/datasets/GNFUV+Unmanned+Surface+Vehicles+Sensor+Data): \
-[- Malaga datasets](http://datosabiertos.malaga.eu/dataset): \
-[- Citypulse ataset Collection](http://iot.ee.surrey.ac.uk:8080/datasets.html#traffic): \
-[- IoT Network Dataset](http://www.social-iot.org/index.php?p=downloads): 
+[- Gas sensors for home activity monitoring](https://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitoring): This dataset has recordings of a gas sensor array composed of 8 MOX gas sensors, and a temperature and humidity sensor\
+[- Pollution Measurements for the City of Brasov in Romania](http://iot.ee.surrey.ac.uk:8080/datasets.html#pollution): For this pollution mockup stream we decided to simulate one sensor for each of the traffic sensor at the exact location of this traffic sensor\
+[- GNFUV Unmanned Surface Vehicles Sensor Data](https://archive.ics.uci.edu/ml/datasets/GNFUV+Unmanned+Surface+Vehicles+Sensor+Data): The data-set comprises (4) sets of mobile sensor readings data (humidity, temperature) corresponding to a swarm of 4 Unmanned Surface Vehicles\
+[- Citypulse ataset Collection](http://iot.ee.surrey.ac.uk:8080/datasets.html#traffic): A collection of datasets of vehicle traffic, observed between two points for a set duration of time over a period of 6 months
