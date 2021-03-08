@@ -15,10 +15,13 @@ A selection of open IoT & Time-Series datasets
 [- Monthly Sunspot Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/monthly-sunspots.csv): This dataset describes a monthly count of the number of observed sunspots for just over 230 years\
 [- Daily Female Births Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-total-female-births.csv): This dataset describes the number of daily female births in California in 1959.\
 [- EEG Eye State Dataset](https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State): This dataset describes EEG data for an individual and whether their eyes were open or closed\
-[- 
+
 
 ### IoT
 [- AI4I 2020 Predictive Maintenance Dataset Data Set](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset): Since real predictive maintenance datasets are generally difficult to obtain and in particular difficult to publish, we present and provide a synthetic dataset that reflects real predictive maintenance encountered in industry to the best of our knowledge.\
 [- Occupancy Detection Dataset](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+): This dataset describes measurements of a room and the objective is to predict whether or not the room is occupied.\
 [- Ozone Level Detection Dataset](https://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection): This dataset describes 6 years of ground ozone concentration observations and the objective is to predict whether it is an “ozone day” or not.\
-[- The copelabs/usense Dataset](https://crawdad.org/copelabs/usense/20170127/): Data concerning social interaction based on wireless and bluetooth
+[- The copelabs/usense Dataset](https://crawdad.org/copelabs/usense/20170127/): Data concerning social interaction based on wireless and bluetooth\
+[- City of Chicago Water Runoff](https://data.cityofchicago.org/Environment-Sustainable-Development/Smart-Green-Infrastructure-Monitoring-Sensors-Hist/ggws-77ih): Results from a 2017-2018 project of City-installed sensors measuring water runoff from streets and sidewalks.\
+[- Household Power Consumption](https://data.world/databeats/household-power-consumption): Individual household electric power consumption dataset collected via submeters placed in 3 distinct areas of a home\
+[- Beach Weather Stations - Automated Sensors](https://data.cityofchicago.org/Parks-Recreation/Beach-Weather-Stations-Automated-Sensors/k7hf-8y75): The Chicago Park District maintains weather sensors at beaches along Chicago's Lake Michigan lakefront. These sensors generally capture the indicated measurements hourly while the sensors are in operation during the summer.\
