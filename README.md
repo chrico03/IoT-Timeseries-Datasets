@@ -30,4 +30,19 @@ A selection of open IoT & Time-Series datasets
 [- Intel Berkeley Research Lab Sensors](https://www.kaggle.com/caesarlupum/iot-sensordata): Data collected from 54 sensors deployed in the Intel Berkeley Research lab\
 [- Gas Sensor Array Drift Dataset](https://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset): This archive contains 13910 measurements from 16 chemical sensors utilized in simulations for drift compensation in a discrimination task of 6 gases at various levels of concentrations.      
 [- IoTFinder](https://yourthings.info/data/): The ground truth and evalulation data for IoTFinder are available for download. The data spans two months from August 1st 2019 to September 30th 2019. The data is filtered for DNS responses only and excludes other protocols.\
-[- Aposemat IoT-23](https://www.stratosphereips.org/datasets-iot23): A labeled dataset with malicious and benign IoT network traffic 
+[- Aposemat IoT-23](https://www.stratosphereips.org/datasets-iot23): A labeled dataset with malicious and benign IoT network traffic\
+[- Smart Green Infrastructure Monitoring Sensors](https://catalog.data.gov/dataset/sustainable-green-infrastructure-monitoring-sensors): \
+[- IoT intrusion detection system](https://github.com/AbertayMachineLearningGroup/network-threats-taxonomy/tree/master/Datasets): \
+[-GeoLife GPS Trajectories](https://www.microsoft.com/en-us/download/details.aspx?id=52367): \
+[- Water Treatment Plant Data Set](https://archive.ics.uci.edu/ml/datasets/Water+Treatment+Plant): \
+[- Internet Usage Data Set](https://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data): \
+[- Commercial Building Energy Dataset](https://combed.github.io/): \
+[- Individual household electric power consumption Data Set](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption): \
+[- AMPds2: The Almanac of Minutely Power dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FIE0S4): \
+[- UK Domestic Appliance-Level Electricity Energy](https://www.imperial.ac.uk/computing): \
+[- Gas sensors for home activity monitoring](https://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitoring): \
+[- Pollution Measurements for the City of Brasov in Romania](http://iot.ee.surrey.ac.uk:8080/datasets.html#pollution): \
+[- GNFUV Unmanned Surface Vehicles Sensor Data](https://archive.ics.uci.edu/ml/datasets/GNFUV+Unmanned+Surface+Vehicles+Sensor+Data): \
+[- Malaga datasets](http://datosabiertos.malaga.eu/dataset): \
+[- Citypulse ataset Collection](http://iot.ee.surrey.ac.uk:8080/datasets.html#traffic): \
+[- IoT Network Dataset](http://www.social-iot.org/index.php?p=downloads): 
