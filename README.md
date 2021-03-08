@@ -73,4 +73,4 @@ A selection of open IoT & Time-Series datasets
 
 [- Daily Female Births Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-total-female-births.csv): This dataset describes the number of daily female births in California in 1959.
 
-[- EEG Eye State Dataset](https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State): This dataset describes EEG data for an individual and whether their eyes were open or closed\
+[- EEG Eye State Dataset](https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State): This dataset describes EEG data for an individual and whether their eyes were open or closed
