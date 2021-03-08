@@ -29,5 +29,5 @@ A selection of open IoT & Time-Series datasets
 [- The ExtraSensory Dataset](http://extrasensory.ucsd.edu/): A dataset for behavioral context recognition in-the-wild from mobile sensors\
 [- Intel Berkeley Research Lab Sensors](https://www.kaggle.com/caesarlupum/iot-sensordata): Data collected from 54 sensors deployed in the Intel Berkeley Research lab\
 [- Gas Sensor Array Drift Dataset](https://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset): This archive contains 13910 measurements from 16 chemical sensors utilized in simulations for drift compensation in a discrimination task of 6 gases at various levels of concentrations.      
-[- IoTFinder](https://yourthings.info/data/): The ground truth and evalulation data for IoTFinder are available for download. The data spans two months from August 1st 2019 to September 30th 2019.
-The data is filtered for DNS responses only and excludes other protocols.
+[- IoTFinder](https://yourthings.info/data/): The ground truth and evalulation data for IoTFinder are available for download. The data spans two months from August 1st 2019 to September 30th 2019. The data is filtered for DNS responses only and excludes other protocols.\
+[- Aposemat IoT-23](https://www.stratosphereips.org/datasets-iot23): A labeled dataset with malicious and benign IoT network traffic 
