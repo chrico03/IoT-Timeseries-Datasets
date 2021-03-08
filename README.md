@@ -1,7 +1,7 @@
 # IoT-Datasets
 A selection of open IoT & Time-Series datasets
 
-### IoT
+## IoT
 
 [- AI4I 2020 Predictive Maintenance Dataset Data Set](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset): Since real predictive maintenance datasets are generally difficult to obtain and in particular difficult to publish, we present and provide a synthetic dataset that reflects real predictive maintenance encountered in industry to the best of our knowledge.
 
@@ -52,7 +52,7 @@ A selection of open IoT & Time-Series datasets
 [- MERLSense Data](https://sites.google.com/a/drwren.com/wmd/): Motion sensor data from a network of over 200 sensors for two years between March 2006 and March 2008
 
 
-### Time-Series
+## Time-Series
 [- Pseudo Periodic Synthetic Time Series](https://data.world/uci/pseudo-periodic-synthetic-time-series): This data set is designed for testing indexing schemes in time series databases. The data appears highly periodic, but never exactly repeats itself.
 
 [- City of San Francisco Crime Data](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry): San Francisco Crime Data from 2003-2016
