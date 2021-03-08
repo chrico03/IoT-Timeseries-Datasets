@@ -31,14 +31,12 @@ A selection of open IoT & Time-Series datasets
 [- Gas Sensor Array Drift Dataset](https://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset): This archive contains 13910 measurements from 16 chemical sensors utilized in simulations for drift compensation in a discrimination task of 6 gases at various levels of concentrations.      
 [- IoTFinder](https://yourthings.info/data/): The ground truth and evalulation data for IoTFinder are available for download. The data spans two months from August 1st 2019 to September 30th 2019. The data is filtered for DNS responses only and excludes other protocols.\
 [- Aposemat IoT-23](https://www.stratosphereips.org/datasets-iot23): A labeled dataset with malicious and benign IoT network traffic\
-[- Smart Green Infrastructure Monitoring Sensors](https://catalog.data.gov/dataset/sustainable-green-infrastructure-monitoring-sensors): \
-[- IoT intrusion detection system](https://github.com/AbertayMachineLearningGroup/network-threats-taxonomy/tree/master/Datasets): \
-[-GeoLife GPS Trajectories](https://www.microsoft.com/en-us/download/details.aspx?id=52367): \
-[- Water Treatment Plant Data Set](https://archive.ics.uci.edu/ml/datasets/Water+Treatment+Plant): \
-[- Internet Usage Data Set](https://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data): \
-[- Commercial Building Energy Dataset](https://combed.github.io/): \
-[- Individual household electric power consumption Data Set](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption): \
-[- AMPds2: The Almanac of Minutely Power dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FIE0S4): \
+[- IoT intrusion detection system](https://github.com/AbertayMachineLearningGroup/network-threats-taxonomy/tree/master/Datasets): Various datasets on Intrusion Detection\
+[- GeoLife GPS Trajectories](https://www.microsoft.com/en-us/download/details.aspx?id=52367): GPS trajectory dataset was collected in (Microsoft Research Asia) Geolife project by 182 users in a period of over three years\
+[- Water Treatment Plant Data Set](https://archive.ics.uci.edu/ml/datasets/Water+Treatment+Plant): This dataset comes from the daily measures of sensors in a urban waste water treatment plant\
+[- Commercial Building Energy Dataset](https://combed.github.io/): Contains a month of smart meter data collected from different sensing points\
+[- Individual household electric power consumption Data Set](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption): This archive contains 2075259 measurements gathered in a house between December 2006 and November 2010\
+[- AMPds2: The Almanac of Minutely Power dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FIE0S4): This dataset contains electricity, water, and natural gas measurements at one minute intervals\
 [- UK Domestic Appliance-Level Electricity Energy](https://www.imperial.ac.uk/computing): \
 [- Gas sensors for home activity monitoring](https://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitoring): \
 [- Pollution Measurements for the City of Brasov in Romania](http://iot.ee.surrey.ac.uk:8080/datasets.html#pollution): \
