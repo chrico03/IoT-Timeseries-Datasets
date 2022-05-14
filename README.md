@@ -3,7 +3,7 @@ A selection of open IoT & Time-Series datasets
 
 ## IoT
 
-[- AI4I 2020 Predictive Maintenance Dataset Data Set](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset): Since real predictive maintenance datasets are generally difficult to obtain and in particular difficult to publish, we present and provide a synthetic dataset that reflects real predictive maintenance encountered in industry to the best of our knowledge.
+[- AI4I 2020 Predictive Maintenance Dataset](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset): Since real predictive maintenance datasets are generally difficult to obtain and in particular difficult to publish, we present and provide a synthetic dataset that reflects real predictive maintenance encountered in industry to the best of our knowledge.
 
 [- Occupancy Detection Dataset](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+): This dataset describes measurements of a room and the objective is to predict whether or not the room is occupied.
 
